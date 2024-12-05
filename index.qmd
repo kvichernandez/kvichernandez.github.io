@@ -1,11 +1,19 @@
 ---
-title: "kvichernandez.github.io"
+title: "Katherine Victoria Hernandez"
+about:
+  template: jolla
+ 
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://x.com/KVictoriaHerna1
 ---
 
-This is a Quarto website.
+K.V. "Kat" Hernandez is a PhD Candidate at the University of California, Los Angeles, Institute of the Environment and Sustainability (IoES). She is also a speculative fiction writer and avid apartment gardner.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, San Diego | San Diego, CA
+B.Sc. | Sept 2015 - June 2019
+
+## Experience

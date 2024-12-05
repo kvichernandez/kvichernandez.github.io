@@ -1,0 +1,8 @@
+---
+title: "Fiction"
+---
+
+links:
+    - icon: khōréō
+      text: khōréō
+      href: https://www.khoreomag.com/fiction/vampirito/

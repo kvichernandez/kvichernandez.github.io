@@ -3,18 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "kvichernandez.github.io"
+  title: "K.V. Hernandez"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - fiction.qmd
+      - href: posts.qmd
+        text: Research
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: journal 
+      dark: darkly
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
-
